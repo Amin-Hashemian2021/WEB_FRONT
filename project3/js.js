@@ -1,0 +1,1 @@
+function func1(x){x.classList.toggle("change");}
